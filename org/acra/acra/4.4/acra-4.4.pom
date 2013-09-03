@@ -5,6 +5,7 @@
   <groupId>org.acra</groupId>
   <artifactId>acra</artifactId>
   <version>4.4</version>
+  <packaging>aar</packaging>
   <name>ACRA</name>
   <description>Application Crash Reports for Android (with support for Sentry)</description>
   <url>https://github.com/dz0ny/acra</url>
