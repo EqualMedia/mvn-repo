@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.tojc.ormlite.android</groupId>
+  <artifactId>ormlite-content-provider-library</artifactId>
+  <version>1.0.3</version>
+  <versioning>
+    <versions>
+      <version>1.0.3</version>
+    </versions>
+    <lastUpdated>20131029144219</lastUpdated>
+  </versioning>
+</metadata>
