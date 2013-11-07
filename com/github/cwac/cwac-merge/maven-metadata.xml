@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.cwac</groupId>
+  <artifactId>cwac-merge</artifactId>
+  <version>1.0.0</version>
+  <versioning>
+    <versions>
+      <version>1.0.0</version>
+    </versions>
+    <lastUpdated>20131107124553</lastUpdated>
+  </versioning>
+</metadata>
