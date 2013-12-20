@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.parse</groupId>
+  <artifactId>Parse</artifactId>
+  <version>1.3.0</version>
+  <versioning>
+    <versions>
+      <version>1.3.0</version>
+      <version>1.3.9</version>
+    </versions>
+    <lastUpdated>20131206173233</lastUpdated>
+  </versioning>
+</metadata>
