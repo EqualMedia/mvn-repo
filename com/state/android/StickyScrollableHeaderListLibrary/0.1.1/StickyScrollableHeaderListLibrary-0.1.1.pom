@@ -3,15 +3,27 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.state.android</groupId>
-  <artifactId>SlidingUpPanel</artifactId>
-  <version>0.1.0</version>
+  <artifactId>StickyScrollableHeaderListLibrary</artifactId>
+  <version>0.1.1</version>
   <packaging>aar</packaging>
-  <name>SlidingUpPanel</name>
+  <name>StickyListHeader</name>
   <dependencies>
+    <dependency>
+      <groupId>com.nineoldandroids</groupId>
+      <artifactId>library</artifactId>
+      <version>2.4.0</version>
+      <scope>compile</scope>
+    </dependency>
     <dependency>
       <groupId>com.android.support</groupId>
       <artifactId>support-v4</artifactId>
-      <version>+</version>
+      <version>19.1.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.android.support</groupId>
+      <artifactId>appcompat-v7</artifactId>
+      <version>19.+</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
